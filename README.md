@@ -24,8 +24,9 @@ depends on the Windows API.
 Binaries
 --------
 
-A `build` directory has been intentionally left in this tree for those
-who just need the binary right away.
+See [the Releases page for this project on
+GitHub](https://github.com/psmay/createAndReadPipe/releases/) for recent
+binaries.
 
 License
 -------
